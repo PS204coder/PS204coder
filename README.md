@@ -1,11 +1,9 @@
 ## Hi there my name is Piotr.
 ### I am a passionate high school student that codes from time to time but tries to be consistent.
 
-## Currently I am not working on anything
-
-## [Last thing i worked on](https://github.com/PS204coder/Raylib_3D_testing)
-
-## Currently I am lerning more C (or other C like languages like C++ and C#)
+Currently I am not working on anything
+[Last thing i worked on](https://github.com/PS204coder/Raylib_3D_testing)
+Currently I am lerning more C (or other C like languages like C++ and C#)
 
 
 <!--
