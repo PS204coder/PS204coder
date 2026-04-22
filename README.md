@@ -8,11 +8,11 @@ Currently I am not working on anything
 Currently I am lerning more C (or other C like languages like C++ and C#)
 
 ### Projects
-[Window_Creation_with_Win32](https://github.com/PS204coder/Testing-window-creation-in-Win-32-API)
-[3D_raylib + shaders](https://github.com/PS204coder/Raylib_3D_testing)
-[HTML_Basics](https://github.com/PS204coder/HTML-test)
-[RayTracing in python (done with tutorial)](https://github.com/PS204coder/Ray_tracing)
-[2D_platformer](https://github.com/PS204coder/Informatics-School-Project)
+[Window_Creation_with_Win32](https://github.com/PS204coder/Testing-window-creation-in-Win-32-API),
+[3D_raylib + shaders](https://github.com/PS204coder/Raylib_3D_testing),
+[HTML_Basics](https://github.com/PS204coder/HTML-test),
+[RayTracing in python (done with tutorial)](https://github.com/PS204coder/Ray_tracing),
+,[2D_platformer](https://github.com/PS204coder/Informatics-School-Project),
 [Failed game jam attempt](https://github.com/PS204coder/nothing-can-go-wrong-jam)
 <!--
 **PS204coder/PS204coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
