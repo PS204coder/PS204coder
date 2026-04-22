@@ -16,7 +16,7 @@ Currently I am lerning more C (or other C like languages like C++ and C#)
 
 [RayTracing in python (done with tutorial)](https://github.com/PS204coder/Ray_tracing),
 
-,[2D_platformer](https://github.com/PS204coder/Informatics-School-Project),
+[2D_platformer](https://github.com/PS204coder/Informatics-School-Project),
 
 [Failed game jam attempt](https://github.com/PS204coder/nothing-can-go-wrong-jam)
 <!--
