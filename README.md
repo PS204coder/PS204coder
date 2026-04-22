@@ -7,6 +7,8 @@ Currently I am not working on anything
 
 Currently I am lerning more C (or other C like languages like C++ and C#)
 
+I mainly programm in python but I am open to new things :).
+
 ### Projects
 [Window_Creation_with_Win32](https://github.com/PS204coder/Testing-window-creation-in-Win-32-API),
 
