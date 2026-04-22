@@ -19,6 +19,10 @@ Currently I am lerning more C (or other C like languages like C++ and C#)
 [2D_platformer](https://github.com/PS204coder/Informatics-School-Project),
 
 [Failed game jam attempt](https://github.com/PS204coder/nothing-can-go-wrong-jam)
+
+I have/had some more projects but they are not posted here and some are lost.
+
+You can find me on: [itch.io](https://ps204.itch.io/)
 <!--
 **PS204coder/PS204coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
